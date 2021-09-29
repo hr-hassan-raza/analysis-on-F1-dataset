@@ -1,7 +1,8 @@
 # analysis-on-F1-dataset
 
-1) Justifications 
+
 Task 1
+
 The first part of task 1 required to find out how many points has each driver scored. In order to this we call PointsEachDriverScore(conn) which returns the dataframe which contains full names and points each driver scored. To get top ten drivers who scored most points we call function showTopDrivers(df,s, "points"). This function also shows visualization of top ten drivers who have scored most points over the years
  
 
